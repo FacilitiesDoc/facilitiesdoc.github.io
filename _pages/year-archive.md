@@ -1,6 +1,6 @@
 ---
-title: "Docs"
-permalink: /posts/
+title: "Documents"
+permalink: /documents/
 layout: single
 author_profile: false
 header:
