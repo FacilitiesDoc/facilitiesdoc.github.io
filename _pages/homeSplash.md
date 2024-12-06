@@ -13,4 +13,4 @@ intro:
 
 ## Department Locations
 
-	<iframe src="https://www.google.com/maps/d/embed?mid=1EZuU0oqrMU1s62CefXXE-eSeSAPJwRg&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://willgeary.github.io/MappingGPS/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
