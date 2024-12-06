@@ -11,13 +11,13 @@ header:
 
 ## General
 
-- [**FAQ**](https://docs.google.com/document/d/e/2PACX-1vSLRyrNOVc6iaml2fzPmhYVTQN0FWaXvqF3caSBz5KAS52a0wBYZi069TpxjFeKrOv3Og3YVZAZkmQz/pub): 
+- [**FAQ**](https://docs.google.com/document/d/1WQn1MhEElBAsPRiTvoqzHW9Hb4SEJn7OHpQrL-lO5GM/edit?usp=sharing): 
 General FAQ. (IN PROGRESS)
 
-- [**Mon/Fri Checklist**](https://docs.google.com/document/d/e/2PACX-1vTWMjpXrA4do2cNsbzwPUYF7aCoz4-Kl9je4NS0YVO883OlK2vuO7k3P8F1xYlaz6IAUkUlkqD1BON-/pub): 
+- [**Mon/Fri Checklist**](https://docs.google.com/document/d/1VEJKcPPlFVRpYfGwa89Fi5r7XUITUCdvgqoi9MoexGo/edit?usp=sharing): 
 Checklist containing information related to restrooms/heaters/trash cans. (IN PROGRESS)
 
 ## Season specific
 
-- [**Winterization**](https://docs.google.com/document/d/e/2PACX-1vQ820niWy8xQ_qTaepfslDxGIZFRJUGc2UEpL4LyUbXanWlK6w-2wOfY0ntrMwgWBxoh3glFDgF4Fcs/pub): 
+- [**Winterization**](https://docs.google.com/document/d/104t27aFq7nCpd2Oi5ZAhrpZ5l9CJsmi4FY9BRKZcZOk/edit?usp=sharing): 
 Winter procedures (IN PROGRESS)
