@@ -64,7 +64,7 @@ author:
   name      : "Darian McDaniel"
   avatar    : "/assets/images/bio-photo.jpg"
   bio       : "Facilities Maintenance Worker"
-  location  : "907 W Fourth St"
+  location  : "909 W Fourth St"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -72,9 +72,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FacilitiesDoc"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/darian-mcdaniel/"
 
 footer:
   links:

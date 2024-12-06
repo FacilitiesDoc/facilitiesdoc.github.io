@@ -13,4 +13,4 @@ intro:
 
 ## Department Locations
 
-<iframe width="100%" height="520" frameborder="0" src="https://www.google.com/maps/d/embed?mid=1EZuU0oqrMU1s62CefXXE-eSeSAPJwRg&ehbc=2E312F" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://www.google.com/maps/d/embed?mid=1EZuU0oqrMU1s62CefXXE-eSeSAPJwRg&ehbc=2E312F&noprof=1" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
