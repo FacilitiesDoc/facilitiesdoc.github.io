@@ -8,13 +8,11 @@ header:
   overlay_image: /assets/images/WinslowBG.png
 intro: 
   - excerpt: 'Internal website intended for Facilites use only'
-feature_row:
+---
+
 ## Department Locations
 
 <iframe width="100%" height="520" frameborder="0" src="https://www.google.com/maps/d/embed?mid=1EZuU0oqrMU1s62CefXXE-eSeSAPJwRg&ehbc=2E312F&noprof=1" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
----
-
-
 
 
 ## Events
