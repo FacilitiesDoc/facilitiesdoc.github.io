@@ -15,10 +15,10 @@ header:
 General FAQ. (IN PROGRESS)
 
 - [**Mon/Fri Checklist**](https://docs.google.com/document/d/1VEJKcPPlFVRpYfGwa89Fi5r7XUITUCdvgqoi9MoexGo/edit?usp=sharing): 
-Checklist containing information related to restrooms/heaters/trash cans. (IN PROGRESS)
+Checklist containing information related to restrooms/heaters/trash cans.
 
 - [**Pelorus Pay Codes**](https://docs.google.com/document/d/1nEc45OU00XwuSgsj3Xs1iVmVRD6vlMXAe5awJGjhVEE/edit?usp=sharing): 
-Pay codes used in Pelorus timesheet software. (IN PROGRESS)
+Pay codes used in Pelorus timesheet software.
 
 ## Season specific
 
