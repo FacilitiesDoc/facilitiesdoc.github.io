@@ -17,6 +17,9 @@ General FAQ. (IN PROGRESS)
 - [**Mon/Fri Checklist**](https://docs.google.com/document/d/1VEJKcPPlFVRpYfGwa89Fi5r7XUITUCdvgqoi9MoexGo/edit?usp=sharing): 
 Checklist containing information related to restrooms/heaters/trash cans.
 
+- [**Cleaning Supplies Spreadsheet**](https://docs.google.com/spreadsheets/d/1gFGdylDaDNQE6HP6w2ww-EU1rYSM1iLnvY0Q5F9JOTg/edit?usp=sharing): 
+Spreadsheet tracking cleaning supplies inventory.
+
 - [**Pelorus Pay Codes**](https://docs.google.com/document/d/1nEc45OU00XwuSgsj3Xs1iVmVRD6vlMXAe5awJGjhVEE/edit?usp=sharing): 
 Pay codes used in Pelorus timesheet software.
 
